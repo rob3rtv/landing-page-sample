@@ -285,13 +285,13 @@ img {
   }
 }
 
-.img-rat {
+/* .img-scaleY {
   transform: scaleY(-1);
 }
 
-.img-ratt2 {
+.img-scaleX {
   transform: scaleX(-1);
-}
+} */
 
 .about-medue {
   font-size: 60px;
